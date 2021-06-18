@@ -1,0 +1,19 @@
+--2021-06-18 15:29:24--  https://raw.githubsercontent.com/svenfuchs/rails-i18n/master/rails/locale/ja.yml
+raw.githubsercontent.com (raw.githubsercontent.com) をDNSに問いあわせています... 103.224.182.253
+raw.githubsercontent.com (raw.githubsercontent.com)|103.224.182.253|:443 に接続しています... 接続しました。
+警告: raw.githubsercontent.com の証明書(発行者: `CN=Let\'s Encrypt Authority X3,O=Let\'s Encrypt,C=US')の検証に失敗しました:
+  発行された証明書は失効しています。
+警告: 証明書に記載されている別名とホスト名 `raw.githubsercontent.com' が一致しません
+HTTP による接続要求を送信しました、応答を待っています... 302 Found
+場所: http://ww25.raw.githubsercontent.com/svenfuchs/rails-i18n/master/rails/locale/ja.yml?subid1=20210618-1629-2505-b46c-360295e188e7 [続く]
+--2021-06-18 15:29:25--  http://ww25.raw.githubsercontent.com/svenfuchs/rails-i18n/master/rails/locale/ja.yml?subid1=20210618-1629-2505-b46c-360295e188e7
+ww25.raw.githubsercontent.com (ww25.raw.githubsercontent.com) をDNSに問いあわせています... 199.59.242.153
+ww25.raw.githubsercontent.com (ww25.raw.githubsercontent.com)|199.59.242.153|:80 に接続しています... 接続しました。
+HTTP による接続要求を送信しました、応答を待っています... 200 OK
+長さ: 特定できません [text/html]
+`ja.yml' に保存中
+
+     0K ...                                                    3.51M=0.001s
+
+2021-06-18 15:29:25 (3.51 MB/s) - `ja.yml' へ保存終了 [4089]
+
